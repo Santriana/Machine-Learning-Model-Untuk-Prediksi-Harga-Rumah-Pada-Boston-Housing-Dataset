@@ -19,3 +19,11 @@ Dalam memprediksi harga rumah pada dataset Boston_Housing digunakan tiga buah mo
 - MEDV - Nilai rata-rata rumah yang ditempati pemilik di $1000-an
 
 Penjelasan lebih lanjut untuk dataset : http://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
+
+### Summery Step
+1. Data Visualization dan Exploratory Data Analysis
+2. Data Preprocessing (Feature Selection, Removing Outlier, Scaling Data, Split Data)
+3. Train Model
+4. Hyperparameter Tuning
+5. Test Model
+6. Evaluate Model
